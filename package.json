@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Dreffka/todo-node#readme",
   "dependencies": {
     "express": "^4.17.1",
- 
+    "express-handlebars": "^5.1.0",
     "handlebars": "^4.5.3",
     "mongoose": "^5.10.7"
   },
