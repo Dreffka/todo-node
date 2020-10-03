@@ -1,0 +1,29 @@
+{
+  "name": "todo-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dreffka/todo-node.git"
+  },
+  "author": "Viacheslav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dreffka/todo-node/issues"
+  },
+  "homepage": "https://github.com/Dreffka/todo-node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+ 
+    "handlebars": "^4.5.3",
+    "mongoose": "^5.10.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "description": ""
+}
